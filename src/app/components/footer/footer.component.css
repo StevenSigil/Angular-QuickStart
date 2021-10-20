@@ -1,0 +1,14 @@
+footer {
+  margin-top: 30px;
+  text-align: center;
+}
+p {
+  margin: 1rem auto 0;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 2rem 0;
+}
